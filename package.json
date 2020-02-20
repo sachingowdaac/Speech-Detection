@@ -1,0 +1,14 @@
+{
+  "name": "speech",
+  "version": "1.0.0",
+  "description": "speech detection",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "browser-sync start --directory --server --files"
+  },
+  "author": "sachin",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
